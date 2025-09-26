@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I am Allan 👋, a Full-Stack Junior Developer from Parana, Brazil.I am always looking to hone my skills and immerse myself in new challenges, both in the frontend and the backend.</h2>
+<h2 align="left">Hello! I am Allan 👋, a Full-Stack Junior Developer from Parana, Brazil. Currently, I am in the 3rd year of Integrated Technical High School in Informatics at UTFPR, actively seeking to apply and improve my knowledge in the development of complete solutions.</h2>
 
 ###
 
