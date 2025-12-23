@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/8LRGZV6LvrA-jIpT2BIpXVA7uTwzZo9VqgXwOvksazE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbml5/dWtpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8wNi9h/bml5dWtpLWdpZi1k/ZW1vbi1zbGF5ZXIt/MzEuZ2lm.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
