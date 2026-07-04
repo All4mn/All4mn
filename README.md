@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I am Allan 👋, a Full-Stack Junior Developer from Parana, Brazil. Currently, I am in the 3rd year of Integrated Technical High School in Informatics at UTFPR, actively seeking to apply and improve my knowledge in the development of complete solutions.</h2>
+<h2 align="left">Hello! I am Allan Guilherme, a Full-Stack Junior Developer from Parana, Brazil. Currently, I am in the 4rd year of Integrated Technical High School in Informatics at UTFPR, actively seeking to apply and improve my knowledge in the development of complete solutions.</h2>
 
 ###
 
